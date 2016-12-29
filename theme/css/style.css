@@ -30,3 +30,8 @@ footer {
 footer p {
     text-align: center;
 }
+
+.badCenter {
+    width: 500px;
+    margin-left: 30%;
+}
