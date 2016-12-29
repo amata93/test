@@ -31,7 +31,9 @@ footer p {
     text-align: center;
 }
 
-.badCenter {
-    width: 500px;
-    margin-left: 30%;
+.center {
+    display: block;
+    margin: auto;
+    max-width: 90%;
 }
+
