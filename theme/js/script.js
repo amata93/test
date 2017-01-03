@@ -8,8 +8,6 @@ function formListener() {
             email: $('#email').val(),
             name: $('#name').val()
         };
-
         console.log(object);
-
     });
 }
