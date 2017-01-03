@@ -6,7 +6,8 @@ function formListener() {
         ev.preventDefault();
         var object = {
             email: $('#email').val(),
-            name: $('#name').val()
+            name: $('#name').val(),
+            password: $('#password').val()
         };
 
         console.log(object);
