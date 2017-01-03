@@ -9,8 +9,6 @@ function formListener() {
             name: $('#name').val(),
             password: $('#password').val()
         };
-
         console.log(object);
-
     });
 }
