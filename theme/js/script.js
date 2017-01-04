@@ -6,7 +6,7 @@ function formListener() {
         ev.preventDefault();
         var object = {
             email: $('#email').val(),
-            name: $('#name').val()
+            nombre: $('#name').val()
         };
         console.log(object);
     });
