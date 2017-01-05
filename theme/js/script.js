@@ -9,5 +9,6 @@ function formListener() {
             nombre: $('#name').val()
         };
         console.log(object);
+        console.log(object);
     });
 }
